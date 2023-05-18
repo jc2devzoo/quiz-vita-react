@@ -1,0 +1,48 @@
+#GameOver {
+    text-align: center;
+    max-width: 600px;
+    
+    background-color: #2c3e50;
+    border-radius: 10px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid aliceblue;
+}
+
+#GameOver h2,
+#GameOver p {
+    margin: 1.5rem;
+    color: aliceblue;
+}
+
+#GameOver p {
+    color: aliceblue;
+
+}
+
+#GameOver button {
+    margin: 1rem;
+    color: aliceblue;
+    background: rgb(0, 0, 0);
+    border: 1px solid antiquewhite;
+}
+
+#GameOver button:hover {
+    border-color: #000;
+}
+
+#GameOver #options-container {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    border-radius: 10px;
+    margin: 1rem;
+}
+
+#GameOver img{
+    height:;
+}
