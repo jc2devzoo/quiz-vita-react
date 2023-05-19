@@ -19,7 +19,7 @@ img {
 button{
   font-weight: bold;
   font-size: 1.2rem;
-  background-color: #34495e;
+  background-color: #0a3d62;
   cursor: pointer;
   border-radius: 20px;
   padding: 0.3rem;
@@ -28,7 +28,7 @@ button{
 }
 
 button:hover{
-  background-color: #204c77;
+  background-color: #bdc8d2;
   transform: scale(105%);
   box-shadow: #204c77;
 }
